@@ -9,6 +9,9 @@ Contact me at
 </a>
 </p>
 
+- https://rpnguyen1.github.io/
+
+
 ### 🛠️ Languages and Tools
 
 ---
@@ -19,11 +22,7 @@ Contact me at
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpnguyen1\&layout=compact\&theme=vision-friendly-dark)
 
-- https://rpnguyen1.github.io/
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rpnguyen1)](https://git.io/streak-stats)
-
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpnguyen1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rpnguyen1/rpnguyen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

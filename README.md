@@ -15,9 +15,9 @@ Contact me at
 
 ### 🔥 My Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TimTwigg\&theme=dark\&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rpnguyen1\&theme=dark\&mode=weekly)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimTwigg\&layout=compact\&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpnguyen1\&layout=compact\&theme=vision-friendly-dark)
 
 - https://rpnguyen1.github.io/
 

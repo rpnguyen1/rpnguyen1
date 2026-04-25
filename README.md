@@ -37,7 +37,8 @@ Contact me at
   <img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg" title="ae" width="40" height="40"/>
 
 </p>
----
+
+<hr>
 
 ### 🔥 My Stats
 

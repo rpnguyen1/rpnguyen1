@@ -1,16 +1,15 @@
 <!-- ## Hi there 👋 -->
-## Hi 👋
-
+<h2 align="center" class="heading-element" dir="auto"> Hi 👋</h2>
 <p align="center">
-<br>
+<!-- <br> -->
 I'm Richard.
 Contact me at  
 <a href="https://www.linkedin.com/in/rpnguyen1/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="20" />
 </a>
-  . Website/Portfolio: https://rpnguyen1.github.io/
-</p>
 
+<p align="center"> Website/Portfolio: https://rpnguyen1.github.io/ </p>
+</p>
 
 
 ### 🛠️ Languages and Tools

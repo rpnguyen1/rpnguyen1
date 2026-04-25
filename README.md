@@ -3,7 +3,7 @@
 
 <p align="center">
 <br>
-I'm Richard. I am a Computer Science graduate from UCLA. I develop computer games and learn new programming skills in my free time. I also play piano and make digital art as a hobby.
+I'm Richard.
 Contact me at  
 <a href="https://www.linkedin.com/in/rpnguyen1/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="20" />

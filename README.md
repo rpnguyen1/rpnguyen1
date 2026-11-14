@@ -11,6 +11,7 @@ Contact me at
 <p align="center"> Website/Portfolio: https://rpnguyen1.github.io/ </p>
 <p align="center"> Game: https://rekmodus.itch.io/a-zombie-game </p>
 <p align="center"> Lasso Tool Photoshop Plugin: https://github.com/rpnguyen1/Lasso-fill-ps </p>
+<p align="center"> Brushes: https://www.instagram.com/stories/highlights/17923573652777574/ </p>
 <p align="center"> Artstation: https://www.artstation.com/richardpnguyen </p>
 
 </p>
